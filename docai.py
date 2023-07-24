@@ -1,5 +1,5 @@
 def process_document_sample():
-    project_id = 'springmltraining-316807',
+    project_id = 'training-316807',
     location = 'us',
     processor_id ='bd79c9b4cddb3b20', 
     file_path ='PMI-474082-2.pdf'
